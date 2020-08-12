@@ -1,0 +1,22 @@
+Stereocopy, anaglyph, anaglifo, estereoscopia
+	stereo, estereo, anaglyphs
+
+paralaxe, parallex
+
+
+
+Aluna: Griselda Esther Jara 
+	Nível: Mestrado 
+	Curso: Computação 
+	Título: "Estudo e implementação do modelo Marr-Poggio para estereoscopia" 
+	Instituição/Local: UFRGS, Porto Alegre, RS 
+	Data da conclusão: agosto de 1990 
+
+JARA, G.E. Estudo e implementação do modelo Marr-Poggio para estereoscopia. Porto 
+	Alegre, PGCC da UFRGS, 1989. (Dissertação de Mestrado, orientador A. 
+	Rocha Costa). 
+
+Quadros, F.S. Um estudo sobre estereoscopia. Porto Alegre, PGCC da UFRGS, 1989. 
+	(TI 92, orientadora: C. Freitas) 
+
+http://www.pcc.usp.br/Pessoal/professores/toledo/pdf/Lorena2000.pdf
